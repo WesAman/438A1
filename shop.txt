@@ -1,10 +1,7 @@
-Oranges
+Lemons
 Bananas
 Corn
-<<<<<<< HEAD
-More dog food
-=======
->>>>>>> Readme
+More dog food and rabbit food
 Cereal
 Bread
 Eggs
