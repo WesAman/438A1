@@ -2,12 +2,11 @@ Oranges
 Bananas
 Corn
 <<<<<<< HEAD
-Dog Food
+More dog food
 =======
-Dog food
 >>>>>>> Readme
 Cereal
 Bread
 Eggs
-Milk
+Water
 
