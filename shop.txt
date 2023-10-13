@@ -5,5 +5,10 @@ More dog food and rabbit food
 Cereal
 Bread
 Eggs
+<<<<<<< HEAD
+Milk
+Coffee & Tea
+=======
 Water
 
+>>>>>>> master
